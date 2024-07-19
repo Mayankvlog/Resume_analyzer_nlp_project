@@ -1,0 +1,12 @@
+pafy
+pandas
+pdfminer3
+Pillow
+Pillow
+Pillow
+plotly
+pyresparser
+spacy
+streamlit
+streamlit_tags
+youtube_dl
